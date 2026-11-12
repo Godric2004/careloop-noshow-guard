@@ -1,6 +1,6 @@
 # CareLoop Clinics — No-Show Guard
 
-**GitHub Repository:** <YOUR-GITHUB-REPO-URL>
+**GitHub Repository:** <https://github.com/Godric2004/careloop-noshow-guard/tree/main>
 
 ## Project Summary
 * **Part 1 (Data Foundations):** Cleaned 1,020 raw booking records down to 990 valid appointments (218 no-shows, 22.0% overall no-show rate) and enriched all 8 clinics with live Open-Meteo temperature data.
